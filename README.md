@@ -17,3 +17,7 @@ That’s it. Enjoy Building!
 
 #### BlockRSVP(Event RSVP system)
 - Github Repo: https://github.com/AwakendJJ/Xerxis-class-project
+- 
+#### Decentralized Education Platform
+
+- Github Repo: https://github.com/Rekg/Decentralized-Education-Platform.git
