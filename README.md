@@ -24,3 +24,7 @@ That’s it. Enjoy Building!
 #### Lomi - Crowdfunding Platform. 
 - GitHub Repo: https://github.com/halas77/lomi
 - Live demo: https://1omi.netlify.app/
+  
+#### Fisset 
+- GitHub Repo: https://github.com/halas77/fiset
+- Live demo: https://fisset.netlify.app/
